@@ -1,0 +1,10 @@
+{
+  "name": "@bantam-io/runkit-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Bantam.io <team@bantam.io>",
+  "license": "MIT"
+}
